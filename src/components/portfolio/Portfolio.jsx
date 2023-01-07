@@ -46,7 +46,7 @@ const data = [
   {
     id: 6,
     image: todo,
-    title: "Charts templates & infographics in Figma",
+    title: "Todo List",
     github: "https://github.com/RaunakBag/React-TODO",
     demo: "https://raunakbag.github.io/React-TODO/",
   },
