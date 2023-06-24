@@ -41,31 +41,31 @@ const Services = () => {
           <div className="services__avatar">
                 <img src="https://logosandtypes.com/wp-content/uploads/2022/03/Cognizant.png" alt=" " />
               </div>
-            <h2>Programmer Analyst Trainee</h2>
+            <h2>Programmer Analyst</h2>
             <h3>Cognizant Technology Solutions</h3>
             <h5>02/2022 - present</h5>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Trained on HTML, CSS and Javascript.</p>
+              <p>Working on Oracle SOA Middleware integrating new code changes in Spring Boot services.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Worked on MEAN(MongoDB, Express, Angular, NodeJS) Stack.</p>
+              <p>Monitoring client applications on AWS and Kafka.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Been part of a Food Delivery Website development.</p>
+              <p>Maintaining and Monitoring critical work flows for inbound and outbound services.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The website uses Angular, Bootstrap for ClientSide.</p>
+              <p>Creating and maintaining reports and documents for critical incidents and their solutions.</p>
             </li>
-            <li>
+            {/*<li>
               <BiCheck className="service__list-icon" />
               <p>The website uses Node, Express and MongoDb for ServerSide.</p>
-            </li>
+            </li>*/}
             {/* <li>
               <BiCheck className="service__list-icon" />
               <p>Features like signup, login, add to cart, order, payment.</p>
