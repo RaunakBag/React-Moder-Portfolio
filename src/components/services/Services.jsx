@@ -48,19 +48,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Working on Oracle SOA Middleware integrating new code changes in Spring Boot services.</p>
+              <p>Collaborated on Oracle SOA Middleware, integrating new code changes into existing Spring Boot services to improve system functionality and performance on Azure cloud infrastructure.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Monitoring client applications on AWS and Kafka.</p>
+              <p>Monitored and optimized client applications hosted on AWS, Kubernetes, Kafka, and Azure, ensuring system stability, scalability, and optimal performance across multi-cloud environments.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Maintaining and Monitoring critical work flows for inbound and outbound services.</p>
+              <p>Developed and maintained Trailer Tracking using NodeJS, Redis, and Azure services, enabling live location tracking and enhancing operational efficiency in an Azure-based environment.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Creating and maintaining reports and documents for critical incidents and their solutions.</p>
+              <p>Collaborated with cross-functional teams to analyze user needs, translating them into technical requirements for successful project delivery on Azure cloud services.</p>
             </li>
             {/*<li>
               <BiCheck className="service__list-icon" />
